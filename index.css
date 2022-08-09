@@ -32,7 +32,8 @@ div{
        border-top-right-radius: 15px;
 }
 b{
-    padding-left:40px;
+    padding-left: 45px;
+}
 h1{
     text-align: center;
     font-family: 'Red Hat Display', sans-serif;
@@ -58,6 +59,7 @@ p{
 }
 .payment{
          background-color: hsl(245, 75%, 52%);
+         color:white;
          padding:12px;
          width: 90%;
          border-radius: 10px;
@@ -91,9 +93,14 @@ p{
         font-size: 12px;
 
 }
+.button:hover{
+    color: hsl(223, 47%, 23%);
+}
 @media only screen and (min-width: 375px) and (max-width: 425px) {
     .images{
         height: 200px;
         width:350px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
     }
 }
