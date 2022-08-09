@@ -61,12 +61,6 @@ p{
        background-color: hsl(225, 100%, 94%); 
        border-radius: 100px;
 }
-a{
-    text-decoration: none;
-    float: right; 
-    font-size: 14px; 
-    color:rgb(78, 78, 223);
-}
 .payment{
          background-color: hsl(245, 75%, 52%);
          padding:12px;
@@ -101,13 +95,6 @@ a{
         font-weight: bold;
         font-size: 12px;
 
-}
-.button:hover{
-    color: hsl(223, 47%, 23%);
-}
-button:hover{
-    background-color: azure;
-    border: none;
 }
 @media only screen and (min-width: 375px) and (max-width: 425px) {
     .images{
