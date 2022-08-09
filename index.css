@@ -31,7 +31,8 @@ div{
        border-top-left-radius: 15px;
        border-top-right-radius: 15px;
 }
-
+b{
+    padding-left:40px;
 h1{
     text-align: center;
     font-family: 'Red Hat Display', sans-serif;
@@ -54,12 +55,6 @@ p{
     width:80%;
     line-height: 0.7;
 
-}
-.icon{
-       color: hsl(224, 23%, 55%); 
-       padding: 9px; 
-       background-color: hsl(225, 100%, 94%); 
-       border-radius: 100px;
 }
 .payment{
          background-color: hsl(245, 75%, 52%);
